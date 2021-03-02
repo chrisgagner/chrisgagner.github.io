@@ -52,7 +52,7 @@
     "siteUrl": "https://chrisgagner.github.io",
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
