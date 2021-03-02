@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Big Test Site - Streaming on Twitch & Youtube",
+    "name": "Big Test Site",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -45,7 +45,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "tnqmj1hcsu",
+    "mbrsiteDomain": "tczcfeanre",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -59,8 +59,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Big Test Page - Streaming on Twitch & Youtube",
+        "meta_descr": "Join the streaming journey as we play games across Nintendo Switch & PC. Streaming live on Twitch & Youtube.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
